@@ -30,8 +30,6 @@ Me chamo Rafael Oliveira, tenho 19 anos e sou natural de São Luís, Maranhão. 
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
-    />
-
 />
 <img 
     align="left" 
