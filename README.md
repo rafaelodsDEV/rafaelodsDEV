@@ -2,7 +2,7 @@
 
 **`Desenvolvedor FrontEnd`**
 
-Me chamo Rafael Oliveira, tenho 19 anos e sou natural de São Luís, Maranhão. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na UNDB.
+Me chamo Rafael Oliveira, tenho 20 anos e sou natural de São Luís, Maranhão. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na UNDB.
 
 <a href="https://github.com/rafaelodsDEV?tab=followers">
          <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/rafaelodsDEV?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
